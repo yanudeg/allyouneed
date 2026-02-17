@@ -1,0 +1,7 @@
+{
+  "name": "AYN - All You Need Inventory",
+  "description": "A professional inventory and management system for restaurants and bakeries with AI-driven insights and invoice scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
